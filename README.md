@@ -115,8 +115,8 @@ A robust, cloud-native solution that transforms customer success management and 
 > **Disclaimer:** Stats below are just my personal GitHub account. Most of my wizardry happens on company accounts and private repos—so these numbers are like the tip of the coding iceberg 🧊🐧.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImadNaseer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNaseer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qasim29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim29&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
