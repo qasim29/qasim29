@@ -10,6 +10,11 @@
 
 <p align="center">
   <b>Software Engineer | AI Automation Architect | Meeting Intelligence Pioneer</b>
+  <br/>
+  <br/>
+  <a href="https://calendar.app.google/WksRQCvR4YdmCp89A">
+    <img src="https://img.shields.io/badge/Book%20a%20Meeting-00D9FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Meeting"/>
+  </a>
 </p>
 
 ---
@@ -148,6 +153,10 @@ A robust, cloud-native solution that transforms customer success management and 
   </a>
   <a href="https://github.com/qasim29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://calendar.app.google/WksRQCvR4YdmCp89A">
+    <img src="https://img.shields.io/badge/Book%20a%20Meeting-00D9FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Meeting"/>
   </a>
 </div>
 
